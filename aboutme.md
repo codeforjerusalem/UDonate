@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: אודות
+subtitle: על הארגון ופעולותיו
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+קבוצה של מתכנתים פרטיים אשר החליטו להקים ארגון ללא מטרות רווח לקידום טכנולוגי של ירושלים.
+קיימים אירגונים דומים ברחבי העולם ואנו מאמינים כי באמצעות כוונות טובות וקצת מאמץ נוכל להיות במקום טוב יותר.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### הסיפור שלנו
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+התחלנו בתור קבוצה של 4 חברים , סטודנטים במקצועות טכנולוגים שונים (data science & computer science ) והחלטנו לעבוד על פרוייקט משותף , אחרי הרבה מחשבה ותכנון זה הפרוייקט שמצאנו לנכון להתחיל.
